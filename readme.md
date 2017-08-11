@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/stealjs/steal-fuzzy-normalize.svg?branch=master)](https://travis-ci.org/stealjs/steal-fuzzy-normalize)
 [![npm version](https://badge.fury.io/js/steal-fuzzy-normalize.svg)](http://badge.fury.io/js/steal-fuzzy-normalize)
+[![Greenkeeper badge](https://badges.greenkeeper.io/stealjs/steal-fuzzy-normalize.svg)](https://greenkeeper.io/)
 
 **steal-fuzzy-normalize** is a module that tries its hardest to normalize a module identifier given the normal steal rules. It's imperfect, but if you give it a list of possible matches it might just work.
 
